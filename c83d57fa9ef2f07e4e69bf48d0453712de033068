@@ -1,0 +1,1 @@
+{"jobID":"4ab7fe42-796e-f422-3e85-da352d649a5c","spec":{"type":"policy","cause":{"Message":"","User":"sysdevguru \u003csysdevguru76@gmail.com\u003e"},"spec":{"demo:deployment/barinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
