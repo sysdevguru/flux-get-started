@@ -1,0 +1,1 @@
+{"jobID":"2a482cd3-f6cc-ad8d-997e-2826c9d3bc76","spec":{"type":"policy","cause":{"Message":"","User":"sysdevguru \u003csysdevguru76@gmail.com\u003e"},"spec":{"flux:deployment/fooinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
