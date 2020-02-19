@@ -1,0 +1,1 @@
+{"jobID":"a0cfaafb-3e19-2cbb-6080-de85319174b2","spec":{"type":"policy","cause":{"Message":"","User":"sysdevguru \u003csysdevguru76@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
